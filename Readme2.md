@@ -72,3 +72,5 @@ DONE
 
 
 Need to retrive name displayed at Navbar from database instead of github.
+
+Completed the project sometime in the beginning of april 2025.
