@@ -45,4 +45,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 4. The handlers function is used in `app\api\auth\[...nextauth]\route.js` file
 5. The route.js file handles all the requests to /api/auth/* (meaning all the requests for authentications)
 6. The repo contains client side logs as well (for debugging), hence not suitable for production.
+
 Note:  The [...nextauth] part is a dynamic API route. In Next.js, square brackets ([...]) denote a catch-all route parameter
